@@ -1,0 +1,25 @@
+{
+  "name": "volta1234.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volta1234/volta1234.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volta1234/volta1234.github.io/issues"
+  },
+  "homepage": "https://github.com/volta1234/volta1234.github.io#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
